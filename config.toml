@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My Ultimate Shopping Guide"
 theme = "silhouette-hugo"
 googleAnalytics = "UA-133483765-1"
+copyright = "Copyright © 2019, My Ultimate Shopping Guide; all rights reserved."
+paginate = 3
+
 
 [params]
     author = "My Ultimate Shopping Guide"
@@ -15,6 +18,7 @@ googleAnalytics = "UA-133483765-1"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    contentSharing = "Theme powered by silhouette-hugo https://github.com/mattbutton/silhouette-hugo"
 
 [[menu.main]]
     url = "/"
@@ -55,3 +59,6 @@ googleAnalytics = "UA-133483765-1"
     url = "https://business.facebook.com/Compare-price-across-2279037415758796/"
     name = "facebook-square"
     weight = 3
+
+[social]
+twitter = "comparepriceacross"

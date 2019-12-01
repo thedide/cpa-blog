@@ -5,7 +5,7 @@ tags: ["Men Grooming", "Shaving"]
 draft: true
 ---
 
-# Ultimate Men Grooming Guide
+<!-- # Ultimate Men Grooming Guide -->
 Shaving is a time consuming and challenging task for me. My goal here is to make it fun and fast for you. If you are a cartridge razor guy and it's working just fine for you can you skip the parts that I go over my choice of razor and blade. If I use cartridge I prefer Gillette Mach3 but I still prefer something sharper and easier to clean. To be honest I've never tried straight razor because I simply didn't have the guts to have one! So I can't make any comment on that but intuitively it should be even better in terms of ease of cleaning the blade (sharpening the blade is a different story but still shouldn't take long) and the speed.
 
 Without any further due MUSG presents:
@@ -19,7 +19,23 @@ I like the sandalwood scent. The quality of the cream is also consistent and goo
 
 [**The Art of Shaving Shaving Cream, Sandalwood, 5 Ounce**](https://www.amazon.com/Art-Shaving-Cream-Sandalwood-Ounce/dp/B000FGWU0W/ref=sr_1_3?crid=RLN6VWYZY5UL&amp;keywords=the+art+of+shaving+shaving+cream+sandalwood&amp;qid=1567978975&amp;s=gateway&amp;sprefix=the+art+of+shaving+shaving+cream+sa%2Caps%2C186&amp;sr=8-3&_encoding=UTF8&tag=didellc-20&linkCode=ur2&linkId=c8c63163ec4a224722d640926aab6a26&camp=1789&creative=9325)
 
-[Compare Price Across It](http://comparepriceacross.com/?sqr=The%20Art%20of%20Shaving%20Shaving%20Cream,%20Sandalwood)
+<!--more-->
+
+[Compare Price Across It](http://comparepriceacross.com:1313/?sqr=The%20Art%20of%20Shaving%20Shaving%20Cream,%20Sandalwood)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Shaving Brush and Bowl Shaving Set
 
@@ -44,7 +60,19 @@ I love this product. the head is adjustable and the whole razor looks so nice an
 
 [**MERKUR Futur Adjustable Double Edge Safety Razor**](https://www.amazon.com/MERKUR-MK-70M-Adjustable-Double-Safety/dp/B000G0JZYQ/ref=sr_1_5?crid=951MRJ6RUOJS&amp;keywords=merkur%2Bsafety%2Brazor&amp;qid=1567975717&amp;s=beauty&amp;sprefix=merkur%2Bsa%2Cbeauty%2C187&amp;sr=1-5&amp;th=1&_encoding=UTF8&tag=didellc-20&linkCode=ur2&linkId=0566585e35c025f985fcf0b44b5440b4&camp=1789&creative=9325)
 
-[Compare Price Across It](http://comparepriceacross.com/?sqr=MERKUR%20Futur%20Adjustable%20Double%20Edge%20Safety%20Razor)
+[Compare Price Across It](http://comparepriceacross.com:1313/?sqr=MERKUR%20Futur%20Adjustable%20Double%20Edge%20Safety%20Razor)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Blade
 **MERKUR Double Edge Razor Blades:**
@@ -56,7 +84,7 @@ When it comes to the blade there are multiple good options out there. I personal
 
 [**MERKUR Double Edge Razor Blades**](https://www.amazon.com/Merkur-Razor-Double-Edge-Razor-Blades/dp/B000JPMHWK/ref=sr_1_3?keywords=MERKUR%2Bblades&amp;qid=1567975900&amp;s=gateway&amp;sr=8-3&amp;th=1&_encoding=UTF8&tag=didellc-20&linkCode=ur2&linkId=3da6cfdde6f7fbabe95762f46ebc178f&camp=1789&creative=9325)
 
-[Compare Price Across It](http://comparepriceacross.com/?sqr=MERKUR%20Double%20Edge%20Razor%20Blades)
+[Compare Price Across It](http://comparepriceacross.com:1313/?sqr=MERKUR%20Double%20Edge%20Razor%20Blades)
 
 ## After Shave
 **The Art of Shaving After Shave Balm, Sandalwood:**
@@ -67,4 +95,16 @@ I've tried many many after shaves and this is definitely one of the best ones. T
 
 [**The Art of Shaving After Shave Balm, Sandalwood, 3.3 Ounce**](https://www.amazon.com/Art-Shaving-After-Shave-Sandalwood-Packaging/dp/B000FGVJWW?&_encoding=UTF8&tag=didellc-20&linkCode=ur2&linkId=55455007c93aa8d34e6979211c97e180&camp=1789&creative=9325)
 
-[Compare Price Across It](http://comparepriceacross.com/?sqr=The%20Art%20of%20Shaving%20After%20Shave%20Balm,%20Sandalwood,%203.3%20Ounce)
+[Compare Price Across It](http://comparepriceacross.com:1313/?sqr=The%20Art%20of%20Shaving%20After%20Shave%20Balm,%20Sandalwood,%203.3%20Ounce)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
