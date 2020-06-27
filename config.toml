@@ -5,6 +5,7 @@ theme = "silhouette-hugo"
 googleAnalytics = "UA-133483765-1"
 copyright = "Copyright © 2019, My Ultimate Shopping Guide; all rights reserved."
 paginate = 3
+enableRobotsTXT = true
 
 
 [params]
