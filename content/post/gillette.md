@@ -7,8 +7,7 @@ tags: ["Gillette", "Shave Cream"]
 ---
 
 
-## Beach Sand Toys Set
-**19 PCs Kids Beach Sand Toys Set:**
+## Gillette Pure Shave Cream
 
 I used Gillette pure shave cream, and I have to be honest I'm at a loss. What a wonderful mix! The leather in the shaving cream is very light, but very stiff, which makes it really easy to shave, and the extra moisturizing properties make the cream feel like a dream. I didn't expect the extra moisturizing properties because I never even thought of adding that to my shaving routine. I find that this formula has the most benefits for my dry skin type, and I actually prefer it over other Shave Balm. I want to use this like a thick soap as I don't even need to lather it, because it has a nice feel when you apply and it sinks into your skin so well.
 
