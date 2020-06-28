@@ -40,23 +40,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
- 
+
         <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
         <link rel="icon" type="image/png" href='{{ "images/favicon-16x16.png" | absURL }}' sizes="16x16">
-        <link rel="icon" type="image/png" href='{{ "images/favicon-32x32.png" | absURL }}' sizes="32x32">  
+        <link rel="icon" type="image/png" href='{{ "images/favicon-32x32.png" | absURL }}' sizes="32x32">
 
         <link href="https://fonts.googleapis.com/css?family=Oswald:400" rel="stylesheet">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">      
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-        
+
         {{ $styles := resources.Get "css/styles.css" }}
         {{ $syntax := resources.Get "css/syntax.css" }}
         {{ $styles := slice $styles $syntax | resources.Concat "css/bundle.css" | minify | fingerprint }}
 
         <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}"  />
 
-        {{ block "head" . }}{{ end }}        
+        {{ block "head" . }}{{ end }}
     </head>
     <body>
 <!-- Google Tag Manager (noscript) -->
@@ -85,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </nav>
 
         {{ block "header" .}}{{ end }}
-        
+
         <div class="main">
             {{ block "main" . }}{{ end }}
         </div>

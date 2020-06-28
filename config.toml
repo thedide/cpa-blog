@@ -1,15 +1,15 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My Ultimate Shopping Guide"
+title = "My Ultimate Guide For Everything"
 theme = "silhouette-hugo"
 googleAnalytics = "UA-133483765-1"
-copyright = "Copyright © 2019, My Ultimate Shopping Guide; all rights reserved."
+copyright = "Copyright © 2019, My Ultimate Guide For Everything; all rights reserved."
 paginate = 3
 enableRobotsTXT = true
 
 
 [params]
-    author = "My Ultimate Shopping Guide"
+    author = "My Ultimate Guide For Everything"
     description = "**Disclaimer:** Products introduced by this blog are only recommendations and it does not mean you should purchase them without doing your own research or using your logic :-)"
     githubUsername = "#"
     accent = "black"
