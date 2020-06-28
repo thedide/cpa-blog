@@ -9,7 +9,7 @@ draft: true
 <!-- # Ultimate Men Grooming Guide -->
 Shaving is a time consuming and challenging task for me. My goal here is to make it fun and fast for you. If you are a cartridge razor guy and it's working just fine for you can you skip the parts that I go over my choice of razor and blade. If I use cartridge I prefer Gillette Mach3 but I still prefer something sharper and easier to clean. To be honest I've never tried straight razor because I simply didn't have the guts to have one! So I can't make any comment on that but intuitively it should be even better in terms of ease of cleaning the blade (sharpening the blade is a different story but still shouldn't take long) and the speed.
 
-Without any further due MUSG presents:
+Without any further due MUGE presents:
 
 ## Shaving Cream
 **The Art of Shaving Shaving Cream, Sandalwood:**

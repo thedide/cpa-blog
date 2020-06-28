@@ -9,7 +9,7 @@ tags: ["Toys", "Sand Toys"]
 <!-- # Ultimate Sand Toys Guide -->
 Playing with sand is fun specially with the right toys. In this post I'm going to introduce a couple of perfect sand toys that make playing with sand even more fun.
 
-Without any further due MUSG presents:
+Without any further due MUGE presents:
 
 ## Beach Sand Toys Set
 **19 PCs Kids Beach Sand Toys Set:**

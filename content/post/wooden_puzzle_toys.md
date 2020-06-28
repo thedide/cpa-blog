@@ -9,7 +9,7 @@ tags: ["Toys", "Wooden Puzzle"]
 <!-- # Ultimate Wooden Puzzle Toys Guide -->
 Wooden puzzles teach toddlers how to focus on a task and use their fine motor skills to solve it. They are also good for their cognitive skills.
 
-Without any further due MUSG presents:
+Without any further due MUGE presents:
 
 ## Layered Puzzle
 

@@ -9,7 +9,7 @@ tags: ["Toys", "Bath Toys"]
 <!-- # Ultimate Bath Toys Guide -->
 In this post I'm going to introduce a couple of handy bath toys for one to two year babies.
 
-Without any further due MUSG presents:
+Without any further due MUGE presents:
 
 ## Suction Cup
 **Boon Jellies Suction Cup Bath Toys:**

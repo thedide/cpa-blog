@@ -9,7 +9,7 @@ tags: ["Toys", "Musical Instruments"]
 <!-- # Ultimate Music Toys Guide -->
 Musical instruments help boost toddler cognitive skills, enhance their memory, and develop gross and fine motor skills.
 
-Without any further due MUSG presents:
+Without any further due MUGE presents:
 
 ## Tiny Piano
 **Korg Tiny Piano Black:**
