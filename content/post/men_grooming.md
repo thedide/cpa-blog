@@ -2,6 +2,7 @@
 title: "Men Grooming"
 date: 2019-09-08
 tags: ["Men Grooming", "Shaving"]
+description: "Gift ideas for men's grooming. Art of shaving sandalwood shaving cream, merkur futur adjustable double edge safety razor"
 draft: true
 ---
 

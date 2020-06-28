@@ -2,6 +2,7 @@
 title: "Bath Toys"
 date: 2019-09-14T04:21:58Z
 draft: true
+description: "Gift ideas for bath toys for two year babies"
 tags: ["Toys", "Bath Toys"]
 ---
 

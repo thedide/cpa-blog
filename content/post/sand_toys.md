@@ -2,6 +2,7 @@
 title: "Sand Toys"
 date: 2019-09-14T05:01:57Z
 draft: true
+description: "Gift ideas for sand toys for toddlers including beach sand toys set, suction cup bath toyd, and friction forward cars"
 tags: ["Toys", "Sand Toys"]
 ---
 

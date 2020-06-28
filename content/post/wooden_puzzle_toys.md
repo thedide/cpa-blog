@@ -2,6 +2,7 @@
 title: "Wooden Puzzle Toys"
 date: 2019-09-14T18:30:37Z
 draft: true
+description: "Gift ideas for wooden puzzles for toddlers with helicopter, ambulence and fire engine shapes"
 tags: ["Toys", "Wooden Puzzle"]
 ---
 
