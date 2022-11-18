@@ -1,3 +1,5 @@
++++
++++
 **ToyTrade** respects the privacy of users. This Privacy Policy explains how we
 collect, use, disclose, and safeguard your information when you visit our mobile communication
 application. Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE
