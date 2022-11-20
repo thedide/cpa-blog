@@ -66,7 +66,7 @@ device’s settings.
 
 ## Data From Contests, Giveaways, and Surveys : Not applicable for ToyTrade app
 
-# H1 USE OF YOUR INFORMATION
+# USE OF YOUR INFORMATION
 
 Having accurate information about you permits us to provide you with a smooth, efficient, and
 customized experience. Specifically, we may use information collected about you via the
