@@ -16,12 +16,12 @@ This Privacy Policy does not apply to the third-party online/mobile store from w
 the Application, including any in-game virtual items, which may also collect and use data about
 you. We are not responsible for any of the data collected by any such third party.
 
-# H1 COLLECTION OF YOUR INFORMATION
+# COLLECTION OF YOUR INFORMATION
 
 We may collect information about you in a variety of ways. The information we may collect via
 the Application depends on the content and materials you use, and includes: 
 
-# H2 Personal Data
+## Personal Data
 
 Demographic and other personally identifiable information (such as your name and email
 address) that you voluntarily give to us when choosing to participate in various activities related
@@ -30,41 +30,41 @@ via your profile, your post, or other interactive areas of the Application, plea
 all data you disclose in these areas is public and your data will be accessible to anyone who
 accesses the Application.
 
-# H2 Derivative Data 
+## Derivative Data 
 
 Information our servers automatically collect when you access the Application, such as your
 native actions that are integral to the Application, including posting, sending messages, or sending trade request, 
 as well as other interactions with the Application and other users via server log files.
 
-# H2 Financial Data : Not applicable for ToyTrade app
+## Financial Data : Not applicable for ToyTrade app
 
 There is no payment necessary for this Application. Financial information, such as data related
 to your payment method is for this application Not Applicable.
 
-# H2 Facebook Permissions : Not applicable for ToyTrade app
+## Facebook Permissions : Not applicable for ToyTrade app
 
-# H2 Data from Social Networks : Not applicable for ToyTrade app
+## Data from Social Networks : Not applicable for ToyTrade app
 
-# H2 Geo-Location Information : Not applicable for ToyTrade app
+## Geo-Location Information : Not applicable for ToyTrade app
 
-# H2 Mobile Device Access
+## Mobile Device Access
 
 We may request access or permission to certain features from your mobile device, including
 your mobile device’s storage. If you wish to change our access or permissions, you may do so
 in your device’s settings.
 
 
-# H2 Mobile Device Data : Not applicable for ToyTrade app
+## Mobile Device Data : Not applicable for ToyTrade app
 
-# H2 Push Notifications
+## Push Notifications
 
 We may request to send you push notifications regarding your account or the Application. If you
 wish to opt-out from receiving these types of communications, you may turn them off in your
 device’s settings.
 
-# H2 Third-Party Data : Not applicable for ToyTrade app
+## Third-Party Data : Not applicable for ToyTrade app
 
-# H2 Data From Contests, Giveaways, and Surveys : Not applicable for ToyTrade app
+## Data From Contests, Giveaways, and Surveys : Not applicable for ToyTrade app
 
 # H1 USE OF YOUR INFORMATION
 
@@ -100,12 +100,12 @@ against criminal activity.
 20. Not applicable : Respond to product and customer service requests.
 
 
-# H1 DISCLOSURE OF YOUR INFORMATION
+# DISCLOSURE OF YOUR INFORMATION
 
 We may share information we have collected about you in certain situations. Your information
 may be disclosed as follows:
 
-# H2 By Law or to Protect Rights
+## By Law or to Protect Rights
 
 If we believe the release of information about you is necessary to respond to legal process, to
 investigate or remedy potential violations of our policies, or to protect the rights, property, and
@@ -113,47 +113,47 @@ safety of others, we may share your information as permitted or required by any 
 rule, or regulation. This includes exchanging information with other entities for fraud protection
 and credit risk reduction.
 
-# H2 Third-Party Service Providers : Not applicable for ToyTrade app
+## Third-Party Service Providers : Not applicable for ToyTrade app
 
 We may share your information with third parties that perform services for us or on our behalf,
 including payment processing, data analysis, email delivery, hosting services, customer service,
 and marketing assistance.
 
-# H2 Marketing Communications : Not applicable for ToyTrade app
+## Marketing Communications : Not applicable for ToyTrade app
 
 With your consent, or with an opportunity for you to withdraw consent, we may share your
 information with third parties for marketing purposes, as permitted by law.
 
-# H2 Interactions with Other Users
+## Interactions with Other Users
 
 If you interact with other users of the Application, those users may see your name, profile photo,
 and descriptions of your activity, including sending invitations to other users, chatting with other
 users, liking posts, following blogs.
 
-# H2 Online Postings
+## Online Postings
 
 When you post comments, contributions or other content to the Applications, your posts may be
 viewed by all users and may be publicly distributed outside the Application in perpetuity
 
-# H2 Third-Party Advertisers : Not applicable for ToyTrade app
+## Third-Party Advertisers : Not applicable for ToyTrade app
 
 We may use third-party advertising companies to serve ads when you visit the Application.
 These companies may use information about your visits to the Application and other websites
 that are contained in web cookies in order to provide advertisements about goods and services
 of interest to you.
 
-# H2 Affiliates : Not applicable for ToyTrade app
+## Affiliates : Not applicable for ToyTrade app
 
 We may share your information with our affiliates, in which case we will require those affiliates
 to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint
 venture partners or other companies that we control or that are under common control with us.
 
-# H2 Business Partners : Not applicable for ToyTrade app
+## Business Partners : Not applicable for ToyTrade app
 
 We may share your information with our business partners to offer you certain products,
 services or promotions. 
 
-# H2 Offer Wall : Not applicable for ToyTrade app
+## Offer Wall : Not applicable for ToyTrade app
 
 The Application may display a third-party-hosted “offer wall.” Such an offer wall allows thirdparty advertisers to offer virtual currency, gifts, or other items to users in return for acceptance
 and completion of an advertisement offer. Such an offer wall may appear in the Application and
@@ -162,18 +162,18 @@ information. When you click on an offer wall, you will leave the Application. A 
 such as your user ID, will be shared with the offer wall provider in order to prevent fraud and
 properly credit your account.
 
-# H2 Social Media Contacts : Not applicable for ToyTrade app
+## Social Media Contacts : Not applicable for ToyTrade app
 
 If you connect to the Application through a social network, your contacts on the social network
 will see your name, profile photo, and descriptions of your activity.
 
-# H2 Other Third Parties : Not applicable for ToyTrade app
+## Other Third Parties : Not applicable for ToyTrade app
 
 We may share your information with advertisers and investors for the purpose of conducting
 general business analysis. We may also share your information with such third parties for
 marketing purposes, as permitted by law.
 
-# H2 Sale or Bankruptcy : Not applicable for ToyTrade app
+## Sale or Bankruptcy : Not applicable for ToyTrade app
 
 If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by
 another entity, we may transfer your information to the successor entity. If we go out of
@@ -186,9 +186,9 @@ sensitive data, and we have no authority to manage or control third-party solici
 longer wish to receive correspondence, emails or other communications from third parties, you
 are responsible for contacting the third party directly.
 
-# H1 TRACKING TECHNOLOGIES
+# TRACKING TECHNOLOGIES
 
-# H2 Cookies and Web Beacons : Not applicable for ToyTrade app
+## Cookies and Web Beacons : Not applicable for ToyTrade app
 
 We may use cookies, web beacons, tracking pixels, and other tracking technologies on the
 Application to help customize the Application and improve your experience. When you access
@@ -199,7 +199,7 @@ Application. You may not decline web beacons. However, they can be rendered inef
 declining all cookies or by modifying your web browser’s settings to notify you each time a
 cookie is tendered, permitting you to accept or decline cookies on an individual basis.
 
-# H2 Internet-Based Advertising : Not applicable for ToyTrade app
+## Internet-Based Advertising : Not applicable for ToyTrade app
 
 Additionally, we may use third-party software to serve ads on the Application, implement email
 marketing campaigns, and manage other interactive marketing initiatives. This third-party
@@ -207,7 +207,7 @@ software may use cookies or similar tracking technology to help manage and optim
 online experience with us. For more information about opting-out of interest-based ads, visit the
 Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool.
 
-# H2 Website Analytics : Not applicable for ToyTrade apps
+## Website Analytics : Not applicable for ToyTrade apps
 
 We may also partner with selected third-party vendors, such as Adobe Analytics,
 Clicktale, Clicky, Cloudfare, Crazy Egg, Flurry Analytics, Google Analytics, Heap
@@ -224,7 +224,7 @@ You should be aware that getting a new computer, installing a new browser, upgra
 existing browser, or erasing or otherwise altering your browser’s cookies files may also clear
 certain opt-out cookies, plug-ins, or settings.
 
-# H1 THIRD-PARTY WEBSITES
+# THIRD-PARTY WEBSITES
 
 The Application may contain links to third-party websites and applications of interest, including
 advertisements and external services, that are not affiliated with us. Once you have used these
@@ -238,7 +238,7 @@ policies of any third parties, including other sites, services or applications t
 or from the Application.
 
 
-# H1 SECURITY OF YOUR INFORMATION
+# SECURITY OF YOUR INFORMATION
 
 We use administrative, technical, and physical security measures to help protect your personal
 information. While we have taken reasonable steps to secure the personal information you
@@ -248,13 +248,13 @@ or other type of misuse. Any information disclosed online is vulnerable to inter
 misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you
 provide personal information.
 
-# H2 POLICY FOR CHILDREN : Not applicable for ToyTrade app
+## POLICY FOR CHILDREN : Not applicable for ToyTrade app
 
 We do not knowingly solicit information from or market to children under the age of 13. If you
 become aware of any data we have collected from children under age 13, please contact us
 using the contact information provided below.
 
-# H2 CONTROLS FOR DO-NOT-TRACK FEATURES : Not applicable for ToyTrade app
+## CONTROLS FOR DO-NOT-TRACK FEATURES : Not applicable for ToyTrade app
 
 Most web browsers and some mobile operating systems [and our mobile applications] include a
 Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to
@@ -266,7 +266,7 @@ that we must follow in the future, we will inform you about that practice in a r
 this Privacy Policy. 
 
 
-# H1 OPTIONS REGARDING YOUR INFORMATION
+# OPTIONS REGARDING YOUR INFORMATION
 
 You may at any time review or change the information in your account or terminate your
 account by:
@@ -278,7 +278,7 @@ information from our active databases. However, some information may be retained
 to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of
 Use and/or comply with legal requirements.
 
-# H2 Emails and Communications
+## Emails and Communications
 
 If you no longer wish to receive correspondence, emails, or other communications from us, you
 may opt-out by:
@@ -288,7 +288,7 @@ may opt-out by:
 If you no longer wish to receive correspondence, emails, or other communications from third
 parties, you are responsible for contacting the third party directly. 
 
-# H1 CONTACT US
+# CONTACT US
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 
