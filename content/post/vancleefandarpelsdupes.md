@@ -59,11 +59,11 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 </script>
 
 ## $50 - $100 Range:
-- [Nordstrom Rack's 14K Gold Vermeil CZ Enamel Clover Necklace](https://i.etsystatic.com/5590846/r/il/d9e729/4022902943/il_1588xN.4022902943_de02.jpg)](https://www.nordstromrack.com/s/gabi-rielle-14k-gold-vermeil-cz-enamel-clover-necklace/7149291?color=GOLD&size=one+size&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping)
+- [Nordstrom Rack's 14K Gold Vermeil CZ Enamel Clover Necklace](https://www.nordstromrack.com/s/gabi-rielle-14k-gold-vermeil-cz-enamel-clover-necklace/7149291?color=GOLD&size=one+size&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping)
 
 [![Nordstrom Rack's 14K Gold Vermeil CZ Enamel Clover Necklace](https://n.nordstrommedia.com/id/sr3/44f52e49-8cc5-40d9-9b7f-36fb12b6c7d3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196&dpr=2)](https://www.nordstromrack.com/s/gabi-rielle-14k-gold-vermeil-cz-enamel-clover-necklace/7149291?color=GOLD&size=one+size&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping)
 
-- [14k Gold Moissanite Clover Necklace by Lavense on Etsy]((https://www.etsy.com/listing/1365990634/14k-gold-moissanite-clover-necklace?gpla=1&gao=1&)
+- [14k Gold Moissanite Clover Necklace by Lavense on Etsy](https://www.etsy.com/listing/1365990634/14k-gold-moissanite-clover-necklace?gpla=1&gao=1&)
 [![14k Gold Moissanite Clover Necklace by Lavense on Etsy](https://i.etsystatic.com/37830045/r/il/b11a58/4456441000/il_1588xN.4456441000_al3w.jpg)](https://www.etsy.com/listing/1365990634/14k-gold-moissanite-clover-necklace?gpla=1&gao=1&)
 
 ## Less than $50 Range:
