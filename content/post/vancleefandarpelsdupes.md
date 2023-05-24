@@ -30,7 +30,8 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 
 
 ## Over $500 Range:
-[![Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/11857647_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$&fmt=webp)](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
+[![Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/11857647_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$&fmt=webp | width=300)](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
+
 
 [![adidas Men's Kaptir 2.0 Running Shoe](https://m.media-amazon.com/images/I/81A5tRP5VMS._AC_UX325_.jpg)](https://www.amazon.com/adidas-Kaptir-Trail-Running-White/dp/B08N5MH4MN)
 ![MACY'S Clover Necklace in 14k Gold](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
