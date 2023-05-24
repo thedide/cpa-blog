@@ -30,11 +30,11 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 
 
 ## Over $500 Range:
-- [Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
+- [Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold]
 [![Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/11857647_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$&fmt=webp)](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
 
 
-
+-[MACY'S Clover Necklace in 14k Gold]
 [![MACY'S Clover Necklace in 14k Gold](https://slimages.macysassets.com/is/image/MCY/products/0/optimized/3106750_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp)](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
 
 
