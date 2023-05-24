@@ -35,6 +35,7 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 
 
 -[MACY'S Clover Necklace in 14k Gold](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
+
 [![MACY'S Clover Necklace in 14k Gold](https://slimages.macysassets.com/is/image/MCY/products/0/optimized/3106750_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp)](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
 
 
