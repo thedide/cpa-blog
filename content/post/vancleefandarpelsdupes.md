@@ -30,8 +30,8 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 
 
 ## Over $500 Range:
-! [Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
-! [MACY'S Clover Necklace in 14k Gold](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
+![Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
+![MACY'S Clover Necklace in 14k Gold](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
 
 
 ## $100 - $500 Range:
@@ -52,11 +52,11 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 </script>
 
 ## $50 - $100 Range:
-! [Nordstrom Rack's 14K Gold Vermeil CZ Enamel Clover Necklace](https://www.nordstromrack.com/s/gabi-rielle-14k-gold-vermeil-cz-enamel-clover-necklace/7149291?color=GOLD&size=one+size&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping)
-! [Dainty Mother of Pearl Four Leaf Multi Flower Necklace, Small Lucky Shamrock Gemstone Choker by CElizabethBayu on Etsy](https://www.etsy.com/listing/1257724817/made-to-order-dainty-mother-of-pearl?ref=listing_page_ad_row-2&pro=1&plkey=20de4e2e2eecb52d1e2448d5fe232bd5d431f166%3A1257724817&listing_id=1257724817&listing_slug=made-to-order-dainty-mother-of-pearl)
-! [14k Gold Moissanite Clover Necklace by Lavense on Etsy](https://www.etsy.com/listing/1365990634/14k-gold-moissanite-clover-necklace?gpla=1&gao=1&)
+![Nordstrom Rack's 14K Gold Vermeil CZ Enamel Clover Necklace](https://www.nordstromrack.com/s/gabi-rielle-14k-gold-vermeil-cz-enamel-clover-necklace/7149291?color=GOLD&size=one+size&utm_source=google&utm_medium=organic&utm_campaign=seo_shopping&utm_channel=low_nd_seo_shopping)
+![Dainty Mother of Pearl Four Leaf Multi Flower Necklace, Small Lucky Shamrock Gemstone Choker by CElizabethBayu on Etsy](https://www.etsy.com/listing/1257724817/made-to-order-dainty-mother-of-pearl?ref=listing_page_ad_row-2&pro=1&plkey=20de4e2e2eecb52d1e2448d5fe232bd5d431f166%3A1257724817&listing_id=1257724817&listing_slug=made-to-order-dainty-mother-of-pearl)
+![14k Gold Moissanite Clover Necklace by Lavense on Etsy](https://www.etsy.com/listing/1365990634/14k-gold-moissanite-clover-necklace?gpla=1&gao=1&)
 
 ## Less than $50 Range:
-! [Adornia White Mother of Pearl Station Chain Necklace](https://www.nordstromrack.com/s/white-mother-of-pearl-station-chain-necklace/6714003)
-! [Gold Plated Four Leaf Clover Necklace, 5 Motifs Four Leaf Clover Necklace by KittyMinimalist on Etsy](https://www.etsy.com/listing/1459568959/gold-plated-four-leaf-clover-necklace-5?click_key=798ee9cef47ce9689db53f2b2c1c0189c7b5e0f3%3A1459568959&click_sum=8c8db043&ref=related-2)
-! [Lucky Clover Sets Necklace Pendant Earrings Bracelet for Women Girls 18k Gold Plated on Amazon](https://www.amazon.com/dp/B0BY41H6V6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B0BY41H6V6&pd_rd_w=QzJzY&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=BDFDEE5342Q77S6817ZX&pd_rd_wg=stIiW&pd_rd_r=40b3e5cf-390f-409c-879a-dcebe02b4470&s=apparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
+![Adornia White Mother of Pearl Station Chain Necklace](https://www.nordstromrack.com/s/white-mother-of-pearl-station-chain-necklace/6714003)
+![Gold Plated Four Leaf Clover Necklace, 5 Motifs Four Leaf Clover Necklace by KittyMinimalist on Etsy](https://www.etsy.com/listing/1459568959/gold-plated-four-leaf-clover-necklace-5?click_key=798ee9cef47ce9689db53f2b2c1c0189c7b5e0f3%3A1459568959&click_sum=8c8db043&ref=related-2)
+![Lucky Clover Sets Necklace Pendant Earrings Bracelet for Women Girls 18k Gold Plated on Amazon](https://www.amazon.com/dp/B0BY41H6V6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B0BY41H6V6&pd_rd_w=QzJzY&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=BDFDEE5342Q77S6817ZX&pd_rd_wg=stIiW&pd_rd_r=40b3e5cf-390f-409c-879a-dcebe02b4470&s=apparel&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
