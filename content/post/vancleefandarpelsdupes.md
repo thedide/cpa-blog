@@ -30,17 +30,18 @@ https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---v
 
 
 ## Over $500 Range:
-- [Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold]
+- [Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
 [![Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/11857647_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$&fmt=webp)](https://www.bloomingdales.com/shop/product/bloomingdales-quatrefoil-link-statement-necklace-in-14k-yellow-gold-100-exclusive?ID=4208538)
 
 
--[MACY'S Clover Necklace in 14k Gold]
+-[MACY'S Clover Necklace in 14k Gold](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
 [![MACY'S Clover Necklace in 14k Gold](https://slimages.macysassets.com/is/image/MCY/products/0/optimized/3106750_fpx.tif?op_sharpen=1&wid=700&hei=855&fit=fit,1&fmt=webp)](https://www.macys.com/shop/product/clover-necklace-in-14k-gold?ID=2421915&pla_country=US&CAGPSPN=pla)
 
 
 ## $100 - $500 Range:
+-[14K Gold Clover Mother of Pearl Station Necklace by DMKjewelryCo on Etsy](https://www.etsy.com/listing/1159886931/14k-gold-clover-mother-of-pearl-station?ref=listing_page_ad_row-4&plkey=071e3cd0070633e6cce3ce69d06a906a356cf96c%3A1159886931&listing_id=1159886931&listing_slug=14k-gold-clover-mother-of-pearl-station)
 [![14K Gold Clover Mother of Pearl Station Necklace by DMKjewelryCo on Etsy](https://i.etsystatic.com/13172531/r/il/b48cd4/3642623119/il_1588xN.3642623119_3wyg.jpg)](https://www.etsy.com/listing/1159886931/14k-gold-clover-mother-of-pearl-station?ref=listing_page_ad_row-4&plkey=071e3cd0070633e6cce3ce69d06a906a356cf96c%3A1159886931&listing_id=1159886931&listing_slug=14k-gold-clover-mother-of-pearl-station)
-
+-[Kate Spade Heritage Bloom Scatter Necklace](https://www.katespade.com/products/heritage-bloom-scatter-necklace/KD304.html?frp=KD304%20Q2F)
 [![Kate Spade Heritage Bloom Scatter Necklace](https://images.katespade.com/is/image/KateSpade/KD304_100?$desktopProduct$)](https://www.katespade.com/products/heritage-bloom-scatter-necklace/KD304.html?frp=KD304%20Q2F)
 
 
