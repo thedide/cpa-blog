@@ -6,7 +6,7 @@
             rgba(0, 0, 0, 0.15), 
             rgba(0, 0, 0, 0.15)
           ), url('{{ "images/hero.jpg" | absURL }}');
-          height: 500px;
+          height: 0px;
 		  background-size: auto;
 		  background-repeat: inherit;
       }
@@ -42,7 +42,6 @@
   {{ if .IsHome }}
     <header class="feature-image">
         <div class="feature-image-text white-shadow-text">
-            {{ partial "header-about-me" . }}
         </div>
     </header>
   {{ end }}
