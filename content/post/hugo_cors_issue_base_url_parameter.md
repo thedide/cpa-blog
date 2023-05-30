@@ -1,7 +1,6 @@
 ---
 title: "Hugo CORS Issue and the baseUrl Parameter"
 date: 2023-04-22T22:24:13Z
-draft: true
 categories:
   - Technology
 tags:

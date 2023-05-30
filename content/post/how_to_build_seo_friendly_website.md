@@ -1,7 +1,6 @@
 ---
 title: "How to build seo friendly websites"
 date: 2023-04-09T02:10:42Z
-draft: true
 tags:
   - seo
   - technology

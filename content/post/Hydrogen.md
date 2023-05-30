@@ -1,7 +1,6 @@
 ---
 title: "Hydrogen Combustion Engine"
 date: 2023-04-03T01:25:57Z
-draft: true
 categories:
   - Technology 
   - Auto Industry

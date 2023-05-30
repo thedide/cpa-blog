@@ -1,7 +1,7 @@
 ---
 title: "Mens summer fashion 2023"
 date: 2023-05-23T04:26:17Z
-draft: true
+draft: false
 categories:
   - Fashion
   - Top 5

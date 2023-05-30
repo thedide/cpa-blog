@@ -1,7 +1,6 @@
 ---
 title: "The Future of Entertainment Part 2"
 date: 2023-04-14T05:51:07Z
-draft: true
 categories:
   - Future
   - Entertainment

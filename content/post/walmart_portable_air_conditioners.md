@@ -1,7 +1,6 @@
 ---
 title: "Walmart portable air conditioners"
 date: 2023-04-06T03:14:27Z
-draft: true
 categories:
   - Air conditioners
 tags:

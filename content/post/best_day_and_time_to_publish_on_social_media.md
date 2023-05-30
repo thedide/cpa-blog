@@ -1,7 +1,6 @@
 ---
 title: "Best Day and Time to Publish on Social Media"
 date: 2023-04-16T15:37:38Z
-draft: true
 categories:
   - Social media
 tags:

@@ -1,7 +1,6 @@
 ---
 title: "Top 5 Free Self Hosted Commenting Systems"
 date: 2023-04-21T04:04:21Z
-draft: true
 categories:
   - top 5
   - technology

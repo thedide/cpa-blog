@@ -1,7 +1,6 @@
 ---
 title: "Music Toys"
 date: 2019-09-14T17:55:15Z
-draft: true
 description: "Gift ideas for musical instruments such as Korg tiny piano and Xylophones for toddlers."
 tags: ["Toys", "Musical Instruments"]
 ---

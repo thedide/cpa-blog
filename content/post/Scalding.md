@@ -1,7 +1,6 @@
   ---
 title: "Scalding tutorial"
 date: 2020-06-28T13:50:58Z
-draft: true
 description: "Learn scalding by example. Go beyond basic samples found in general scalding documentation."
 tags: ["Technology", "Scalding", "Tutorial", "Data Engineering"]
 ---

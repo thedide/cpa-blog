@@ -1,7 +1,6 @@
 ---
 title: "A guide to French Open 2023"
 date: 2023-05-16T02:25:08Z
-draft: true
 categories:
   - Sport
 tags:

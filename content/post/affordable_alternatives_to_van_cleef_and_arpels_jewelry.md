@@ -1,7 +1,6 @@
 ---
 title: "Affordable alternatives to Van Cleef and Arpels jewelry"
 date: 2023-05-24T04:07:34Z
-draft: true
 categories:
   - Fashion
 tags:
@@ -25,8 +24,6 @@ Are you captivated by the exquisite allure of the Van Cleef and Arpels Alhambra 
 
 In this comprehensive guide, we'll embark on a journey through the realm of affordable jewelry alternatives, where we reveal the top dupes for the Van Cleef and Arpels Alhambra Long Necklace. Our curated selection captures the essence of the original design, allowing you to embrace your unique style and make a statement that turns heads. Whether you're a fashion enthusiast seeking the perfect accessory or a smart shopper looking for value, we've got you covered. Join us as we uncover the secrets to finding the ultimate Van Cleef and Arpels dupe, enabling you to indulge in elegance without compromising your budget. It's time to get the look for less and unleash your inner fashionista.
 
-
-[Bloomingdale's Quatrefoil Link Statement Necklace in 14K Yellow Gold](https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html)
 
 <p align="center">
 <a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://voguesg.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/02173021/Van-cleef-arpels-carine-roitfeld-2-2021-vogue-sg-680x1020.jpg" width="300" /></a>

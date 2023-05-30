@@ -1,7 +1,6 @@
 ---
 title: "Introducing Toytrade App"
 date: 2023-04-10T04:17:57Z
-draft: true
 categories:
   - Phone application
 tags:

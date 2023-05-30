@@ -1,7 +1,6 @@
 ---
 title: "Generative AI's Take on Building a Startup with $100"
 date: 2023-04-21T23:53:46Z
-draft: true
 categories:
   - Gen AI
 tags:

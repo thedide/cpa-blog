@@ -1,7 +1,6 @@
 ---
 title: "Gift ideas for father day 2023"
 date: 2023-05-16T02:32:54Z
-draft: true
 categories:
   - Events
 tags:

@@ -1,7 +1,6 @@
 ---
 title: "The Future of Entertainment"
 date: 2023-04-11T02:41:02Z
-draft: true
 categories:
   - Future
 tags:

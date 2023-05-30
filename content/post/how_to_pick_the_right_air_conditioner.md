@@ -1,7 +1,6 @@
 ---
 title: "How to pick the right air conditioner"
 date: 2023-04-05T03:48:08Z
-draft: true
 categories:
   - Home Improvement
 tags:

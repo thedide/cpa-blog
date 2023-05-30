@@ -1,7 +1,6 @@
 ---
 title: "Gillette Pure Shave Cream"
 date: 2019-09-16T05:02:17Z
-draft: true
 description: "Gillette Pure Shave Cream"
 tags: ["Gillette", "Shave Cream"]
 ---

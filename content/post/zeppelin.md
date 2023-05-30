@@ -1,7 +1,6 @@
 ---
 title: "How to Install Apache Zeppelin"
 date: 2020-06-28T13:50:58Z
-draft: true
 description: "Apache Zeppelin (web-based notebook for interactive data analytics) installation guide for Scala."
 tags: ["Technology", "Apache Zeppelin", "How to", "Installation"]
 ---
