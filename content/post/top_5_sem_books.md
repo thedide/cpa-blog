@@ -34,7 +34,7 @@ As one of the most respected authorities on SEM, Brad Geddes' "Advanced Google A
 3. ["Digital Marketing Essentials"](https://a.co/d/8Cj2iJa) by Jeff Larson
 While not exclusively focused on SEM, "Digital Marketing Essentials" by Jeff Larson provides a comprehensive overview of various digital marketing channels, including SEM. It covers the fundamentals of digital marketing, including SEO, social media marketing, email marketing, and paid search, making it a great resource for marketers looking for a holistic approach to their online marketing efforts.
 
-4. ["The New Rules of Marketing and PR"](The New Rules of Marketing and PR) by David Meerman Scott
+4. ["The New Rules of Marketing and PR"](https://a.co/d/gf1H2Gx) by David Meerman Scott
 In this bestselling book, David Meerman Scott provides a fresh perspective on digital marketing, including SEM, in the age of social media and content marketing. It covers strategies and tactics for creating and optimizing online content, building brand awareness, and driving traffic to your website through various channels, including search engines. This book is great for marketers looking to understand the changing landscape of digital marketing and how to leverage it for success.
 
 5. ["PPC University"](https://www.wordstream.com/learn) by WordStream

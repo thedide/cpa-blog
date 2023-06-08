@@ -51,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Facebook Pixel Code -->
 
 
-        <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+        <title>{{ with .Params.Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</title>
 
         <link rel="icon" type="image/png" href='{{ "images/favicon-16x16.png" | absURL }}' sizes="16x16">
         <link rel="icon" type="image/png" href='{{ "images/favicon-32x32.png" | absURL }}' sizes="32x32">
