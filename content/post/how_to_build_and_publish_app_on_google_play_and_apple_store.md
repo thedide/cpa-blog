@@ -13,8 +13,9 @@ tags:
   - Build package
 ---
 
-This is the second part of our introduction to building React Native apps with AWS services.
-You can find the high level post with pointers to detailed posts [here](https://www.comparepriceacross.com/post/building_phone_apps_with_react_native_and_amazon_services/).
+This is part of a series of posts on building mobile apps with React Native
+and AWS services. You can read the parent post
+[here](https://www.comparepriceacross.com/post/building_phone_apps_with_react_native_and_amazon_services/).
 
 # How to build and publish apps on Google Play and Apple App Store
 
@@ -85,6 +86,18 @@ Before creating a package, make sure to test/debug your app throughly and ensure
   - Once your app is uploaded to App Store Connect, navigate to the "App Store" tab.
   - Review all the app details and ensure everything is accurate and complete.
   - Click on the "Submit for Review" button to submit your app for review by Apple's App Review team.
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- cpa -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-2843564932689995"
+       data-ad-slot="3526097725"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
 
 ## Prepare images for your app
 

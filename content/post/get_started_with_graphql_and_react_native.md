@@ -11,6 +11,10 @@ tags:
   - Amplify
 ---
 
+This is part of a series of posts on building mobile apps with React Native
+and AWS services. You can read the parent post
+[here](https://www.comparepriceacross.com/post/building_phone_apps_with_react_native_and_amazon_services/).
+
 # Get Started With GraphQL on React Native (using Amplify)
 
 ## 1- Introduction:
@@ -28,6 +32,18 @@ Before diving into the implementation, ensure that you have the following prereq
 - Node.js and npm installed on your development machine.
 - A basic understanding of React Native and GraphQL concepts.
 - An AWS account with appropriate permissions.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 5- Setting Up AWS Amplify
 To get started with AWS Amplify, follow these steps:

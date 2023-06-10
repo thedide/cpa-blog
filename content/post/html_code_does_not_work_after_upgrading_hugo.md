@@ -18,6 +18,18 @@ Hugo, the popular static website generator, offers an efficient and reliable way
 ## Understanding the Issue:
 After updating the Hugo binary, you may notice that your markdown code is not rendering as expected. HTML tags, which you used for various purposes like formatting and embedding Google AdSense ads, may no longer work as intended. This can lead to a loss of functionality and aesthetic appeal on your website.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Addressing the Issue:
 Fortunately, there is a straightforward solution to this problem. By editing the config.toml file, we can instruct Hugo to allow the rendering of unsafe content, including raw HTML tags, within markdown files. Here's how you can do it:
 

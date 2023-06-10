@@ -41,6 +41,18 @@ To build and test a React Native package, after creating your project follow the
 
 Read more about building your app and publishing it to Apple App Store or Google Play [here](https://www.comparepriceacross.com/post/how_to_build_and_publish_app_on_google_play_and_apple_store/).
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 3. Storing Data, Updating, and Searching with GraphQL
 
 GraphQL is a powerful query language for APIs that allows you to define and request the exact data you need. It provides a flexible and efficient way to interact with your backend services, making it an excellent choice for storing data, updating records, and performing searches within your mobile app.

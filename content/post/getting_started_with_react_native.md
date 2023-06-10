@@ -10,8 +10,9 @@ tags:
   - React Native
 ---
 
-This is the second part of our introduction to building React Native apps with AWS services.
-You can find the high level post with pointers to detailed posts [here](https://www.comparepriceacross.com/post/building_phone_apps_with_react_native_and_amazon_services/).
+This is part of a series of posts on building mobile apps with React Native
+and AWS services. You can read the parent post
+[here](https://www.comparepriceacross.com/post/building_phone_apps_with_react_native_and_amazon_services/).
 
 # Getting started with React Native
 To initialize a React Native project, build a "Hello World" app, and run it, you can follow these steps (Please note that the exact command may vary for your OS):
@@ -65,6 +66,18 @@ react-native run-android
 You can add 'npx react-native run-ios/run-android' if you use npx.
 
 This command will compile your app and launch it on the iOS Simulator (for iOS) or an Android emulator (for Android). Make sure you have a simulator/emulator set up or a physical device connected to your machine.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 6. Update App.js with "Hello World" Text
 Open the App.js file in your preferred code editor. Replace the existing code with the following:
