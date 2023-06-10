@@ -1,7 +1,7 @@
 ---
 title: "Permission to Repository Denied to Git User"
 date: 2023-06-09T20:38:03-07:00
-draft: true
+draft: false
 categories:
   - Software Development
   - Technology
