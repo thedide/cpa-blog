@@ -29,6 +29,10 @@ Discover our handpicked affordable alternatives inspired by the enchanting Perl√
 <a href="https://www.vancleefarpels.com/us/en/collections/jewelry/perlee/vcarp6x700---perlee-sweet-clovers-bracelet-large-model.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg" width="300" /></a>
 </p>
 
+<p align="center">
+<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://voguesg.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/02173021/Van-cleef-arpels-carine-roitfeld-2-2021-vogue-sg-680x1020.jpg" width="300" /></a>
+</p>
+
 ## Perl√©e Bracelets Dupes:
 - [Perlee bangle clover bracelet 925 silver 18k gold plated clover bracelet by LadybugFairs on Etsy ](https://www.etsy.com/listing/1429686097/perlee-bangle-clover-bracelet-925-silver?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=van+cleef+perlee+bracelet&ref=sr_gallery-1-2&pro=1&organic_search_click=1)
 
