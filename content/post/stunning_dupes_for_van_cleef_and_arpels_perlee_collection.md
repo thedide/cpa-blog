@@ -25,9 +25,7 @@ The Van Cleef and Arpels Perlée Collection is celebrated for its timeless beaut
 Discover our handpicked affordable alternatives inspired by the enchanting Perlée Collection. From bracelets and rings to earrings and necklaces, these dupes provide an opportunity to adorn yourself with intricately designed pieces that mirror the sophistication and meticulous craftsmanship associated with Van Cleef and Arpels. With these accessible alternatives, you can celebrate the symbolism and beauty of Perlée, expressing your personal style and embracing the grace of timeless elegance.
 
 
-<p align="center">
-<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/perlee/vcarp6x700---perlee-sweet-clovers-bracelet-large-model.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg" width="300" /></a>
-</p>
+
 
 <p align="center">
 <a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://img019.feelway.com/upfile018/GOODS/5694404948/13e6da2c82ec1971de066a672ee78bda1639717946037184000.jpeg" width="300" /></a>
