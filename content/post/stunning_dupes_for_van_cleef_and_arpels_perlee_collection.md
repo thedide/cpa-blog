@@ -30,7 +30,7 @@ Discover our handpicked affordable alternatives inspired by the enchanting PerlÃ
 </p>
 
 <p align="center">
-<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://voguesg.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/02173021/Van-cleef-arpels-carine-roitfeld-2-2021-vogue-sg-680x1020.jpg" width="300" /></a>
+<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg" width="300" /></a>
 </p>
 
 ## PerlÃ©e Bracelets Dupes:
