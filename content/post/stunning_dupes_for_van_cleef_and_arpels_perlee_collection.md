@@ -30,7 +30,7 @@ Discover our handpicked affordable alternatives inspired by the enchanting PerlÃ
 </p>
 
 <p align="center">
-<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg" width="300" /></a>
+<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/alhambra/vcarp2r000---vintage-alhambra-long-necklace-20-motifs.html"><img style="border: 5px solid #555" src="[https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg](https://www.vancleefarpels.cn/content/dam/rcq/vca/21/21/53/3/2121533.jpeg)" width="300" /></a>
 </p>
 
 ## PerlÃ©e Bracelets Dupes:
