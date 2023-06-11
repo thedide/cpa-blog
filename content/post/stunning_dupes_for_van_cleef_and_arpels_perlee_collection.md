@@ -26,7 +26,7 @@ Discover our handpicked affordable alternatives inspired by the enchanting PerlÃ
 
 
 <p align="center">
-<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/perlee/vcarp6x700---perlee-sweet-clovers-bracelet-large-model.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg.transform.vca-w820-2x.jpeg" width="300" /></a>
+<a href="https://www.vancleefarpels.com/us/en/collections/jewelry/perlee/vcarp6x700---perlee-sweet-clovers-bracelet-large-model.html"><img style="border: 5px solid #555" src="https://www.vancleefarpels.com/content/dam/rcq/vca/21/21/45/1/2121451.jpeg" width="300" /></a>
 </p>
 
 ## PerlÃ©e Bracelets Dupes:
