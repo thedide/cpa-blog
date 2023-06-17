@@ -17,4 +17,4 @@ Initially we created MUGE For price comparison across multiple websites to empow
 
 ## Disclaimer
 
-Products or solutions shared in thid blog are not perfect, they do not cover all aspects of a problem, they are not free from shortcomings. Please do your own research, use your own judgement and if you see fit use our recommendations. Hope you enjoy and find this blog useful  :-)
+Products or solutions shared in this blog are not necessarily perfect and they may not cover all aspects of a problem. Please do your own research, use your own judgement and if you see fit use our recommendations. Hope you enjoy and find our blog useful  :-)
