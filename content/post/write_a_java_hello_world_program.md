@@ -1,7 +1,6 @@
 ---
 title: "Write a Java Hello World Program"
 date: 2023-06-17T06:40:34-07:00
-draft: true
 categories:
   - Software Development
 tags:
@@ -46,6 +45,18 @@ Let's break down the code:
 - `public static void main(String[] args)`: This is the entry point of the program. It is a special method that serves as the starting point for execution. The `main` method accepts an array of strings (`String[] args`), which allows you to pass command-line arguments to your program.
 
 - `System.out.println("Hello, World!");`: This line prints the text "Hello, World!" to the console. The `System.out` object represents the standard output, and `println` is a method to display a line of text.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Compiling and Running the Program
 

@@ -37,6 +37,18 @@ print("Hello, World!")
 
 The code above uses the print function to output the text "Hello, World!" to the console. This is the simplest form of a Python program.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Running the Program
 Once you have written the code, it's time to run it on your machine. Follow these steps:
 
