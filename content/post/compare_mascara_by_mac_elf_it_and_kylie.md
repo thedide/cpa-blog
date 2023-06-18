@@ -1,5 +1,5 @@
 ---
-title: "Compare_mascara_by_mac_elf_it_and_kylie"
+title: "Compare Mascara by Mac ELF IT and Kylie Cosmetics"
 date: 2023-06-18T09:41:27-07:00
 categories:
   - fashion
