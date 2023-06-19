@@ -77,9 +77,9 @@ When it comes to enhancing our lashes, mascara is a must-have in our makeup arse
 
 <p align="center">
 
-<a href="https://www.maccosmetics.com/product/13839/26749/products/makeup/eyes/mascara/in-extreme-dimension-3d-black-lash-mascara"><p>In Extreme Dimension Lash Mascara</p><img style="border: 5px solid #555" src="https://sdcdn.io/mac/us/mac_sku_MN6501_1x1_0.png?width=1080&height=1080" width="300" /></a>
+<a href="https://www.maccosmetics.com/product/13839/26749/products/makeup/eyes/mascara/in-extreme-dimension-3d-black-lash-mascara"><p>In Extreme Dimension Lash Mascara</p><img style="border: 5px solid #555" src="https://sdcdn.io/mac/us/mac_sku_MN6501_1x1_0.png?width=1080&height=1080" width="300" alt="In Extreme Dimension Lash Mascara"/></a>
 
-<a href="https://www.maccosmetics.com/product/13839/24962/products/makeup/eyes/mascara/extended-play-gigablack-lash-mascara"><p>Extended Play Gigablack Lash Mascara</p><img style="border: 5px solid #555" src="https://sdcdn.io/mac/us/mac_sku_MN4501_1x1_0.png?width=1080&height=1080" width="300" /></a>
+<a href="https://www.maccosmetics.com/product/13839/24962/products/makeup/eyes/mascara/extended-play-gigablack-lash-mascara"><p>Extended Play Gigablack Lash Mascara</p><img style="border: 5px solid #555" src="https://sdcdn.io/mac/us/mac_sku_MN4501_1x1_0.png?width=1080&height=1080" width="300" alt="Extended Play Gigablack Lash Mascara" /></a>
 
 </p>
 
@@ -87,9 +87,9 @@ When it comes to enhancing our lashes, mascara is a must-have in our makeup arse
 
 <p align="center">
 
-<a href="https://www.elfcosmetics.com/waterproof-lengthening-%26-volumizing-mascara/81801.html"><p>In Extreme Dimension Lash Mascara</p><img style="border: 5px solid #555" src="https://cdn-fsly.yottaa.net/5a0c9b7632f01c35d42101b2/www.elfcosmetics.com/v~4b.97/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dwc6662082/81801_WtrpfLengthVolMascara.jpg?sfrm=png&sw=800&q=90&yocs=F_J_" width="300" /></a>
+<a href="https://www.elfcosmetics.com/waterproof-lengthening-%26-volumizing-mascara/81801.html"><p>Lengthening & Volumizing Mascara</p><img style="border: 5px solid #555" src="https://cdn-fsly.yottaa.net/5a0c9b7632f01c35d42101b2/www.elfcosmetics.com/v~4b.97/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dwc6662082/81801_WtrpfLengthVolMascara.jpg?sfrm=png&sw=800&q=90&yocs=F_J_" width="300" alt="Lengthening & Volumizing Mascara" /></a>
 
-<a href="https://www.maccosmetics.com/product/13839/24962/products/makeup/eyes/mascara/extended-play-gigablack-lash-mascara"><p>Big Mood Mascara</p><img style="border: 5px solid #555" src="https://www.elfcosmetics.com/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dw8672b787/2021/81581_EYMSC_OpenA_R.jpg?sfrm=png&sw=800&q=90" width="300" /></a>
+<a href="https://www.maccosmetics.com/product/13839/24962/products/makeup/eyes/mascara/extended-play-gigablack-lash-mascara"><p>Big Mood Mascara</p><img style="border: 5px solid #555" src="https://www.elfcosmetics.com/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dw8672b787/2021/81581_EYMSC_OpenA_R.jpg?sfrm=png&sw=800&q=90" width="300" alt="Big Mood Mascara" /></a>
 
 </p>
 
@@ -97,9 +97,9 @@ When it comes to enhancing our lashes, mascara is a must-have in our makeup arse
 
 <p align="center">
 
-<a href="https://www.itcosmetics.com/makeup/eyes-and-brows/mascara/superhero-volumizing-waterproof-mascara/ITC_1170.html"><p>Superhero Mascara</p><img style="border: 5px solid #555" src="https://www.itcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-itcosmetics-master-catalog/default/dwa5352e6f/product-images/2023/Superhero_Waterproof_Mascara/ITC-Mascara-superhero-waterproof-mascara-full-size-open-000-Front.jpg?sw=465&sh=465&sm=cut&sfrm=jpeg&q=70" width="300" /></a>
+<a href="https://www.itcosmetics.com/makeup/eyes-and-brows/mascara/superhero-volumizing-waterproof-mascara/ITC_1170.html"><p>Superhero Mascara</p><img style="border: 5px solid #555" src="https://www.itcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-itcosmetics-master-catalog/default/dwa5352e6f/product-images/2023/Superhero_Waterproof_Mascara/ITC-Mascara-superhero-waterproof-mascara-full-size-open-000-Front.jpg?sw=465&sh=465&sm=cut&sfrm=jpeg&q=70" width="300" alt="Superhero Mascara"/></a>
 
-<a href="https://www.itcosmetics.com/makeup/eyes-and-brows/mascara/tightline-3-in-1-black-lash-primer-eyeliner-lengthening-mascara/ITC_500.html?dwvar_ITC__500_size=0.12%20US%20fl.%20oz.%20%2F%203.5%20ml&dwvar_ITC__500_shade=black"><p>Tightline Mascara</p><img style="border: 5px solid #555" src="https://www.itcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-itcosmetics-master-catalog/default/dw5a647a4c/product-images/it-cosmetics-mascara-tightline-3-in-1-mascara-packshot.jpg?sw=465&sh=465&sm=cut&sfrm=jpg&q=70" width="300" /></a>
+<a href="https://www.itcosmetics.com/makeup/eyes-and-brows/mascara/tightline-3-in-1-black-lash-primer-eyeliner-lengthening-mascara/ITC_500.html?dwvar_ITC__500_size=0.12%20US%20fl.%20oz.%20%2F%203.5%20ml&dwvar_ITC__500_shade=black"><p>Tightline Mascara</p><img style="border: 5px solid #555" src="https://www.itcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-itcosmetics-master-catalog/default/dw5a647a4c/product-images/it-cosmetics-mascara-tightline-3-in-1-mascara-packshot.jpg?sw=465&sh=465&sm=cut&sfrm=jpg&q=70" width="300" alt="Tightline Mascara" /></a>
 
 </p>
 
@@ -107,7 +107,7 @@ When it comes to enhancing our lashes, mascara is a must-have in our makeup arse
 
 <p align="center">
 
-<a href="https://kyliecosmetics.com/products/kylash-volume-mascara?variant=44379326906610"><p>kylash volume mascara</p><img style="border: 5px solid #555" src="https://cdn.shopify.com/s/files/1/0662/4598/4498/products/KJC_KVMASC_23_KV_Kylie_PDP_Black_01_WS_V2_e03c6d05-609c-486b-872d-7812a902d5f9.jpg?v=1680637908" width="300" /></a>
+<a href="https://kyliecosmetics.com/products/kylash-volume-mascara?variant=44379326906610"><p>kylash volume mascara</p><img style="border: 5px solid #555" src="https://cdn.shopify.com/s/files/1/0662/4598/4498/products/KJC_KVMASC_23_KV_Kylie_PDP_Black_01_WS_V2_e03c6d05-609c-486b-872d-7812a902d5f9.jpg?v=1680637908" width="300" alt="kylash volume mascara"/></a>
 
 </p>
 
