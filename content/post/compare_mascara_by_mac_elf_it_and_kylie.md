@@ -118,4 +118,3 @@ It's essential to consider factors such as formula, brush design, performance, p
 Remember, mascara is a versatile beauty tool that can transform your lashes, so have fun experimenting and finding the perfect mascara to elevate your eye makeup game!
 
 
-
