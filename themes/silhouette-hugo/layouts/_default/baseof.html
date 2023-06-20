@@ -70,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </head>
     <body>
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="ftU7aG2I"></script>
+<!--script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="ftU7aG2I"></script-->
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57T3873"
@@ -103,7 +103,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             {{ block "main" . }}{{ end }}
         </div>
         
-		<div class="fb-comments" data-href="https://www.comparepriceacross.com{{.RelPermalink}}" data-width="100%" data-numposts="5"></div>
+		<!--div class="fb-comments" data-href="https://www.comparepriceacross.com{{.RelPermalink}}" data-width="100%" data-numposts="5"></div-->
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+            *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+            *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+            /*
+            var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            */
+            (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://comparepriceacross.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 
         <footer class="mt-auto footer d-print-none">
             <div class="container-fluid">
@@ -132,5 +152,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
         {{ template "_internal/google_analytics_async.html" . }}
+        <script id="dsq-count-scr" src="//comparepriceacross.disqus.com/count.js" async></script>
     </body>
 </html>
