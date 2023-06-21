@@ -14,7 +14,7 @@ tags:
 
 # Building Phone Apps with React Native and Amazon AWS Services
 
-In today's digital age, mobile applications have become an integral part of our lives. Whether it's for personal use or business purposes, having a well-designed and functional app can make a significant impact. React Native, coupled with Amazon services such as GraphQL and Amplify, provides a powerful combination for developing cross-platform phone apps efficiently. In this blog post, we'll explore how you can leverage these technologies to create robust and feature-rich applications.
+React Native, coupled with Amazon services such as GraphQL and Amplify, provides a powerful combination for developing cross-platform phone apps efficiently. In this blog post, we'll explore how you can leverage these technologies to create robust and feature-rich applications.
 
 This blog post is intentionally kept high level and you can dive deeper into each area by following the provided links under each section. The diagram below shows different steps/modules involved in building and publishing apps and the corresponding section in this blog post.
 
