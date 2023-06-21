@@ -1,7 +1,6 @@
 ---
 title: "Top 5 books for 5 year old kids"
 date: 2023-06-20T18:23:59-07:00
-draft: true
 categories:
   - Top 5
   - Book
