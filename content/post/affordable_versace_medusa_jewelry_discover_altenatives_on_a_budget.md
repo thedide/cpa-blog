@@ -1,6 +1,7 @@
 ---
 title: "Affordable Versace Medusa Jewelry: Discover Stylish Alternatives on a Budget"
 date: 2023-06-21T04:07:34Z
+featured_image: "https://cdn-images.farfetch-contents.com/17/67/89/42/17678942_38790123_1000.jpg"
 categories:
   - Fashion
 tags:

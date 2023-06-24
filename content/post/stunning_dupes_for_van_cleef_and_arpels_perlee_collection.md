@@ -1,6 +1,7 @@
 ---
 title: "Stunning Dupes for Van Cleef and Arpels Perlée Collection"
 date: 2023-05-24T04:07:34Z
+featured_image: "https://img019.feelway.com/upfile018/GOODS/5694404948/13e6da2c82ec1971de066a672ee78bda1639717946037184000.jpeg"
 categories:
   - Fashion
 tags:
