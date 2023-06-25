@@ -1,7 +1,6 @@
 ---
 title: "Hugo Tag Page Does Not Work"
 date: 2023-06-24T07:32:02-07:00
-draft: true
 categories:
   - Technology
 tags:

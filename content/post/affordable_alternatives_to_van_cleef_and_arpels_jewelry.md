@@ -2,7 +2,6 @@
 title: "Affordable alternatives to Van Cleef and Arpels jewelry"
 date: 2023-05-24T04:07:34Z
 featured_image: "https://voguesg.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2021/09/02173021/Van-cleef-arpels-carine-roitfeld-2-2021-vogue-sg-680x1020.jpg"
-featured_image_caption: "Affordable Dupes for the Van Cleef and Arpels Alhambra Long Necklace"
 categories:
   - Fashion
 tags:
