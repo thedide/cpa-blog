@@ -1,7 +1,6 @@
 ---
 title: "Host Multiple Domains Served by Apache Http Server on One EC2 Server"
 date: 2023-06-27T18:01:14-07:00
-draft: true
 categories:
   - Technology
 tags:
