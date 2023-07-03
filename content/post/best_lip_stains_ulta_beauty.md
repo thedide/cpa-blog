@@ -1,5 +1,5 @@
 ---
-title: "Best_lip_stains_ulta_beauty"
+title: "Best Lip Stains at Ulta Beauty"
 date: 2023-07-02T17:58:54-07:00
 featured_image: "https://media.ulta.com/i/ulta/2611336?w=299&h=299"
 categories:
