@@ -2,6 +2,7 @@
 title: "Affordable Alternatives to Dior Friendship Bracelet"
 date: 2023-07-04T14:56:47-07:00
 featured_image: "https://m.media-amazon.com/images/I/61J9zh7hfRL._AC_UX679_.jpg"
+draft: true
 categories:
   - Fashion
 tags:

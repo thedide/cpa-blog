@@ -2,6 +2,7 @@
 title: "Affordable Alternatives to Gucci Ghost Ring"
 date: 2023-07-04T14:53:03-07:00
 featured_image: "https://i.etsystatic.com/25665643/r/il/9fb174/2773564240/il_794xN.2773564240_ngdq.jpg"
+draft: true
 categories:
   - Fashion
 tags:

@@ -2,6 +2,7 @@
 title: "Affordable Alternatives to Budhagirl Bangles Bracelet"
 date: 2023-07-04T14:56:22-07:00
 featured_image: "https://i.etsystatic.com/6732992/r/il/8c1438/2487409419/il_175x175.2487409419_a91i.jpg"
+draft: true
 categories:
   - Fashion
 tags:
