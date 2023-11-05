@@ -109,6 +109,14 @@ backend be_test
 sudo service haproxy restart
 ```
 
+## Open corresponding port on your EC2 instance
+
+- Go to aws console and navigate to your EC2 instance.
+- Go to the security tab and click on the security group.
+- Edit inbound rules and add two rules (the rules the way I've defined them here let folks from any ip address access your Streamlit app, you may want to add more restrictions if needed for your use case).
+- 1. Custom TCP on port 8501 (default Streamlit port, you need to change this if you are using a non-default port) and insert 0.0.0.0/0 
+- 2. Custom TCP on port 8501 (default Streamlit port, you need to change this if you are using a non-default port) and insert ::/0
+
 ## Hide Streamlit style
 
 In case you want to hide Streamlit default footer use the following code snippet:
