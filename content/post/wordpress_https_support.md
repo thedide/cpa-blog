@@ -17,12 +17,14 @@ Access your WordPress admin dashboard.
 Navigate to Settings > General.
 In the WordPress Address (URL) and Site Address (URL) fields, add https://www to the beginning of your URLs.
 Click Save Changes.
+
 2. Create AWS Entry for HTTP to HTTPS Redirection:
 
 Log in to your AWS Management Console.
 Access the Route 53 or CloudFront service (depending on your setup).
 Create a new rule or configuration to redirect HTTP traffic to the HTTPS (www) version of your website.
 Ensure this rule applies to all HTTP requests.
+
 3. Modify wp-config.php File:
 
 Access your WordPress site's files using an FTP client or file manager.
@@ -40,6 +42,7 @@ if (strpos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'https') !== false) {
 ```
 
 Save the changes to wp-config.php.
+
 4. Clear Cache and Test:
 
 Clear your browser cache and WordPress cache (if applicable).
