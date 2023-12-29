@@ -38,6 +38,7 @@ if (strpos($_SERVER['HTTP_X_FORWARDED_PROTO'], 'https') !== false) {
     $_SERVER['HTTPS'] = 'off';
 }
 ```
+
 Save the changes to wp-config.php.
 4. Clear Cache and Test:
 
@@ -46,7 +47,7 @@ Visit your website using both http:// and https:// URLs. It should automatically
 Check your browser's security indicators to confirm the HTTPS connection is valid.
 Additional Tips:
 
-Obtain an SSL/TLS Certificate: You'll need an SSL/TLS certificate from a trusted certificate authority (CA) to enable HTTPS. AWS Certificate Manager (ACM) offers free certificates for use with AWS services. read more [here]{https://www.comparepriceacross.com/post/host_multiple_domains_on_one_ec2_server_using_haproxy/} about how you can use letsencrypt to get SSL/TLS certificates and use for your website.
+Obtain an SSL/TLS Certificate: You'll need an SSL/TLS certificate from a trusted certificate authority (CA) to enable HTTPS. AWS Certificate Manager (ACM) offers free certificates for use with AWS services. read more [here](https://www.comparepriceacross.com/post/host_multiple_domains_on_one_ec2_server_using_haproxy/) about how you can use letsencrypt to get SSL/TLS certificates and use for your website.
 Test Thoroughly: Ensure all website pages and functionalities work correctly over HTTPS.
 Monitor Certificate Expiration: Set reminders to renew your SSL/TLS certificate before it expires.
 Congratulations! Your WordPress website is now securely served over HTTPS!
