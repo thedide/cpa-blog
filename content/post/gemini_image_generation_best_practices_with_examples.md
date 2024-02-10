@@ -1,6 +1,7 @@
 ---
 title: "Gemini Image Generation Best Practices With Examples"
 date: 2024-02-09T22:27:23-08:00
+featured_image: "../../gemini/cat.png"
 categories:
   - Technology
 tags:
