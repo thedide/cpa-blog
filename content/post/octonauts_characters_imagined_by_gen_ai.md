@@ -1,7 +1,7 @@
 ---
 title: "Octonauts Characters Imagined by Gen AI"
 date: 2024-02-15T19:46:00-08:00
-featured_image: "../../octonauts/fw1.jpeg"
+featured_image: "../../octonauts/b_g_1.jpeg"
 categories:
   - Technology
 tags:
