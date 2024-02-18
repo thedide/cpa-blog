@@ -74,6 +74,18 @@ Adding google Adsense script to your Streamlit page is not straightforward. I re
         index_path.write_text(new_html)
 ```
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 This method works by directly modifying the head tag of the static template index.html in Streamlit. Wrap this code in a method and invoke the method on your page load.
 
 
