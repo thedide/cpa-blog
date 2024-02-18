@@ -38,9 +38,14 @@ Several reasons make adding AdSense to your Streamlit app an attractive option:
 
 Remember, while Streamlit doesn't officially endorse injecting arbitrary Javascript, ethical and responsible use of AdSense adheres to their user policies. Here's a general approach, but always double-check for updates and specific limitations:
 
-### **Get Your AdSense Code:** Create an AdSense account and grab the code snippet they provide.
-### **Prepare Your Streamlit App:** Choose where you want to display the ads (e.g., sidebar, footer).
-### **Inject the Code:** This step requires adding Google Adsense script to your page.
+### **Get Your AdSense Code:** 
+Create an AdSense account and grab the code snippet they provide.
+
+### **Prepare Your Streamlit App:** 
+Choose where you want to display the ads (e.g., sidebar, footer).
+
+### **Inject the Code:** 
+This step requires adding Google Adsense script to your page.
 
 Adding google Adsense script to your Streamlit page is not straightforward. I recommend directly manipulating your streamlit index page by utilizing BeautifulSoup and adding required checkings in place to avoid re-injecting the adsense script if it already exists. This approach is based on the discussions [here](https://discuss.streamlit.io/t/google-analytics-and-streamlit/29385/2):
 
@@ -124,7 +129,8 @@ This method works by directly modifying the head tag of the static template inde
 * Injecting arbitrary Javascript into web pages can have security and ethical implications. Ensure you understand and follow the AdSense policies and user agreement when using this code.
 
 
-### **Test and Monitor:** Ensure the ads display correctly and track your earnings through the AdSense dashboard.
+### **Test and Monitor:** 
+Ensure the ads display correctly and track your earnings through the AdSense dashboard.
 
 **Important Note:** While this overview provides a general understanding, always refer to Streamlit's documentation and community resources for the latest guidelines and recommended practices.
 
