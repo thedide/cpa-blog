@@ -1,7 +1,6 @@
 ---
 title: "Octonauts Toys for Kids"
 date: 2024-02-17T20:23:24-08:00
-draft: true
 featured_image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS15ItaFVPJJlrTZhHTS92iRfkj3gXa2g3FYsYzZzmjVQx1LaGZfJDBv03SxfrW"
 categories:
   - Toys
