@@ -52,10 +52,16 @@ comparepriceacross.com may contain links to third-party websites. We do not have
 
 comparepriceacross.com is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected information from a child under 13, please contact us, and we will promptly delete the information.
 
-## 8. Updates to this Privacy Policy
+## 8. Mobile Information
 
-### 8.1 Policy Changes
+### 8.1 Mobile Information Usage
+
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties
+
+## 9. Updates to this Privacy Policy
+
+### 9.1 Policy Changes
 
 We reserve the right to modify or update this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on comparepriceacross.com. It is your responsibility to review this Privacy Policy periodically for any updates.
 
-For any questions or concerns regarding this Privacy Policy or our data practices, please contact us at [provide contact information].
+For any questions or concerns regarding this Privacy Policy or our data practices, please contact us at info@comparepriceacross.com.
