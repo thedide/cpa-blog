@@ -37,7 +37,7 @@ enableRobotsTXT = true
     weight = 3
 
 [[menu.main]]
-    url = "/privacy_policy"
+    url = "/cpa_privacy_policy"
     name = "Privacy Policy"
     weight = 4    
 
