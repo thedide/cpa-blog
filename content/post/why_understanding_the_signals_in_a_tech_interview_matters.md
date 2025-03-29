@@ -1,5 +1,5 @@
 ---
-title: "Why_understanding_the_signals_in_a_tech_interview_matters"
+title: "Why Understanding the Signals in a Tech Interview Matters"
 date: 2025-03-29T09:24:46-07:00
 categories:
   - Technology
