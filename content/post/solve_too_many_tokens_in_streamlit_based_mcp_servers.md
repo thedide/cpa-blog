@@ -54,6 +54,13 @@ import streamlit as st
 if 'messages' not in st.session_state:
     st.session_state['messages'] = []
 
+# Count total tokens
+total_tokens = sum(count_tokens(msg['content']) for msg in st.session_state['messages'])
+st.write(f"Total tokens: {total_tokens}")
+```
+
+---
+
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- cpa -->
@@ -66,13 +73,6 @@ if 'messages' not in st.session_state:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-# Count total tokens
-total_tokens = sum(count_tokens(msg['content']) for msg in st.session_state['messages'])
-st.write(f"Total tokens: {total_tokens}")
-```
-
----
 
 ## Fix #2: Summarization of Prior Messages
 
