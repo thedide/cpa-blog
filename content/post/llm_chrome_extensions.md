@@ -3,6 +3,7 @@ title: "LLM Chrome Cxtensions: The Quiet Revolution Inside Your Browser"
 date: 2026-01-29T21:21:34-08:00
 categories:
   - Technology
+tags:
   - LLM Chrome Extensions
   - Monica AI
   - Sider AI
