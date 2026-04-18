@@ -68,6 +68,18 @@ As defined in the [ADK (Agent Development Kit) documentation](https://adk.dev/sk
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Elaborating on Skills: The ADK Approach
 
 According to the ADK framework, defining a skill involves more than just writing code. It involves "teaching" the agent what that code is for. 
@@ -98,6 +110,17 @@ An agent with **GitSkills** (Clone, Commit, Push) and **TestExecutionSkills** ca
 
 
 ---
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### What Could Go Wrong? Risks and Considerations
 
@@ -144,6 +167,18 @@ As defined by the [ADK documentation](https://adk.dev/skills/#define-skills), a 
 3.  **Logic:** The Python code that executes the task.
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### The Use Case: An Automated Investment Research Agent
 
@@ -237,7 +272,17 @@ def analyze_market_sentiment(
 ```
 
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ---
 
 ### Step 4: Orchestrating the Agent
@@ -319,6 +364,18 @@ In software engineering, we learned long ago that monolithic architectures are h
 The solution is **Modular Orchestration**.
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### 1. The Multi-Agent Architecture: Hub-and-Spoke
 
@@ -427,6 +484,17 @@ class GlobalState:
 shared_memory = GlobalState()
 ```
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- cpa -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2843564932689995"
+     data-ad-slot="3526097725"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 When the `DataSpecialist` finishes its task, it doesn't just return a string to the user. It writes the result to `shared_memory`. The `WritingAgent` then reads that memory to construct the final report. This turns a simple agent into a **Collaborative System**.
 
 ---
